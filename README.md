@@ -1,11 +1,24 @@
-### Hello I'm Arthur Zimmermann ✋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/arthur-zimmermann-de-oliveira-63b347207/
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Arthur+Zimmermann+de+Oliveira;I'm+21+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) https://www.instagram.com/arthurzimmermann_/?hl=en 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArthurZimm&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Arthur Zimmermann GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurZimm&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arthurzimm&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthurzimm&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=de4f16&text_color=ffffff&bg_color=0d1117" alt="arthur zimmermann git status" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurzimm&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+</div>
+
+<div align="center"> 
+<a href="https://www.instagram.com/arthurzimmermann_/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:arthur.zimmermann11@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/arthur-zimmermann-de-oliveira-63b347207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
 ### 🚀 Software Skills
 
 <div style= "display: inline_block"><br/>
@@ -18,5 +31,8 @@
 </div>
 <br/>
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurZimm&langs_count=8)](https://github.com/ArthurZimm/github-readme-stats)
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{arthurzimm}/count.svg" /></p> 
+<br>
+</div>
