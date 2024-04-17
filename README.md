@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: 
+   <strong>🦄 Languages: </strong>
   <div style= "display: inline_block"><br/>
 
 
@@ -26,7 +26,7 @@
 
 
 <p align="left">
-  💌 Redes Sociais: ⤵️
+  <strong>💌 Social Network:</strong> ⤵️
   <div align="center"> 
 <a href="https://www.instagram.com/arthurzimmermann_/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:arthur.zimmermann11@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
