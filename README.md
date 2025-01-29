@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, me chamo <strong>Arthur Zimmermann de Oliveira</strong>, sou formado em sistemas de informação na faculdade UCL Manguinhos, atualmente trabalho como <strong>Desenvolvedor .NET</strong>.<br>
+  Olá, me chamo <strong>Arthur Zimmermann de Oliveira</strong>, sou formado em sistemas de informação na faculdade UCL Manguinhos, estou fazendo a pós graduação de arquitetura de sistemas com .Net na Fiap, atualmente trabalho como <strong>Desenvolvedor .NET</strong>.<br>
   
 </p>
 
