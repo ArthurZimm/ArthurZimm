@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffcec1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffcec1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Arthur+Zimmermann+de+Oliveira;I'm+23+years+old;I'm+from+Brazil;I'm+BackEnd+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffcec1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Arthur+Zimmermann+de+Oliveira;I'm+23+years+old;I'm+from+Brazil;I'm+Fullstack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthurzimm&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=de4f16&text_color=ffffff&bg_color=0d1117" alt="arthur zimmermann git status" /> 
@@ -13,17 +13,15 @@
   Olá, me chamo <strong>Arthur Zimmermann de Oliveira</strong>, sou formado em sistemas de informação na faculdade UCL Manguinhos, atualmente estou fazendo a pós graduação de Arquitetura de Sistemas com .Net na Fiap, e trabalho como <strong>Desenvolvedor .NET</strong>.<br>
   
 </p>
-
+<br/>
+<br/><br/><br/><br/><br/><br/>
 <p align="left">
-   <strong>🦄 Languages: </strong>
-  <div style= "display: inline_block"><br/>
+ <strong>👨‍💻 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸: </strong>
+<div style= "display: flex; flex-wrap:wrap;">
 
-
-   
-<code> [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,cs,dotnet,python)](https://skillicons.dev)</code>
+<code> [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts,cs,dotnet,docker,mysql,postgres,sqlite,firebase)](https://skillicons.dev)</code>
 </div>
 </p>
-
 
 <p align="left">
   <strong>💌 Social Network:</strong> ⤵️
